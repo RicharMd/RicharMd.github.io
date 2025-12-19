@@ -39,6 +39,12 @@ Unlike a pure theorist, I build systems. Unlike a pure engineer, I seek mathemat
 *   Optimized solver speed by **100x** using **Numba JIT** and exploiting matrix banded structure.
 *   *Relevance: Bridges the gap between Theory (Linear Algebra) and High-Performance Computing.*
 
+### [3. High-Performance Numerical Image Deblurring](https://github.com/RicharMd/High-Perf-Numerical-Image-Deblurring)
+> **Role**: Algorithm Engineer | **Tech**: Python (Numba), Linear Algebra, HPC
+*   Implemented **Householder QR** and **Givens Rotation** factorizations from scratch.
+*   Optimized solver speed by **100x** using **Numba JIT** and exploiting matrix banded structure.
+*   *Relevance: Bridges the gap between Theory (Linear Algebra) and High-Performance Computing.*
+
 ---
 
 ## 🔬 Research & AI Projects
