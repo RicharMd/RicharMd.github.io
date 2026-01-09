@@ -2,65 +2,54 @@
 layout: default
 ---
 
-# Yiteng Mao (毛弋滕)
+<img src="./assets/profile.jpg" alt="Yiteng Mao" width="160" style="border-radius: 50%; float: right; margin-left: 20px;">
 
-**Junior CS Student @ UW-Madison (Incoming Spring 2026)**  
-*Previously @ CUHK-Shenzhen (Top 10%)*
+# Yiteng (Richard) Mao
 
-👋 Hi, I'm Yiteng. I am a **Methodology-Driven AI Researcher** with a strong foundation in **Systems Engineering**. 
-My research interest lies in the intersection of **Model Architecture Innovation**, **Neuro-Symbolic AI**, and **Training Paradigm Shifts**. 
+**Incoming Junior @ UW-Madison CS (Spring 2026)**  
+*Methodology-Driven AI Researcher | U.S. Permanent Resident*
 
-Unlike a pure theorist, I build systems. Unlike a pure engineer, I seek mathematical intuition.
-
-[📄 Download CV](./assets/CV_Yiteng_Mao.pdf) | [📧 Email](mailto:123090419@link.cuhk.edu.cn) | [GitHub](https://github.com/RicharMd)
+[📄 CV (PDF)](./assets/CV_Yiteng_Mao.pdf) | [📧 Email](mailto:mao85@wisc.edu) | [GitHub](https://github.com/RicharMd)
 
 ---
 
-## 🛠 Selected Projects (Engineering & Systems)
+## 🔬 Research Vision
 
-*Use cases: Demonstrating C++/Java proficiency for course transfer (CS 300/400) & System capability.*
+I am a researcher driven by **Methodology** rather than just benchmarks. My goal is to shift **Post-training paradigms (RLHF)** to enable true emergence and internalize "Hallucination Awareness" in LLMs.
 
-### [1. The ONE: 2D Game Engine Architecture (C++/SFML)](https://github.com/RicharMd/The-ONE-Cpp-Game-Engine)
-> **Role**: Lead Architect | **Tech**: C++, SFML, Memory Management, Design Patterns
-*   Engineered a custom **Entity-Component-System (ECS)** framework from scratch without commercial engines.
-*   Implemented **Polymorphic** state management (Scene, Entity, Character) and manual **Memory Management**.
-*   Designed a robust Game Loop handling physics updates and rendering interpolation.
-*   *Relevance: Demonstrates mastery of C++ OOP, Pointers, and System Architecture.*
-
-### [2. High-Performance Java Chat System](https://github.com/RicharMd/Java-Multithreaded-Chat-System)
-> **Role**: Sole Developer | **Tech**: Java Sockets, Multithreading, Thread Pools
-*   Built a concurrent server handling multiple clients using **Java Sockets** and **ThreadPools**.
-*   Solved race conditions using **Read-Write Locks** and synchronized blocks.
-*   *Relevance: Demonstrates concurrency, networking, and Java system design.*
-
-### [3. High-Performance Numerical Image Deblurring](https://github.com/RicharMd/High-Perf-Numerical-Image-Deblurring)
-> **Role**: Algorithm Engineer | **Tech**: Python (Numba), Linear Algebra, HPC
-*   Implemented **Householder QR** and **Givens Rotation** factorizations from scratch.
-*   Optimized solver speed by **100x** using **Numba JIT** and exploiting matrix banded structure.
-*   *Relevance: Bridges the gap between Theory (Linear Algebra) and High-Performance Computing.*
-
-### [3. High-Performance Numerical Image Deblurring](https://github.com/RicharMd/High-Perf-Numerical-Image-Deblurring)
-> **Role**: Algorithm Engineer | **Tech**: Python (Numba), Linear Algebra, HPC
-*   Implemented **Householder QR** and **Givens Rotation** factorizations from scratch.
-*   Optimized solver speed by **100x** using **Numba JIT** and exploiting matrix banded structure.
-*   *Relevance: Bridges the gap between Theory (Linear Algebra) and High-Performance Computing.*
+I am currently pivoting from **Formal Verification (Lean4)** to **Empirical Evaluation**, believing that solving the "Evaluation Gap" in OOD human errors is the key to reliable Reward Modeling.
 
 ---
 
-## 🔬 Research & AI Projects
+## 🚀 Ongoing Research
 
-*Use cases: Demonstrating AI/Research potential for Lab Applications.*
+### [1. Pointing Benchmark: Real-world Reasoning Evaluation](./)
+> *Independent Research | Advisor: Prof. Hongyuan Zha*
+*   **The Problem**: SOTA LLM Judges are "convergent" (good at grading LLMs) but fail at grading "divergent" human errors (MSE 2.96 vs 1.54).
+*   **The Fix**: Constructed a benchmark with **300+ authentic high-school assessments** and expert annotations.
+*   **The Insight**: Proposing that human errors are OOD for current Reward Models.
 
-### [1. Algo-Trading with RL & Transformers](https://github.com/RicharMd/Algo-Trading-Transformer-RL)
-> **Course Project (Kaggle Hull Tactical)**
-*   Developed a "Sim-to-Real" pipeline: **Supervised Fine-Tuning (SFT)** -> **Reinforcement Learning (GRPO)**.
-*   Analyzed "Super Factors" (Rank IC -0.15) and chose **N-HiTS (MLP)** over PatchTST based on factor linearity.
-*   Implemented a custom **"Rotten Apple"** mechanism to generate unbiased Out-of-Sample signals for Policy Training.
+### [2. Lean4Eval: Formal Reasoning for LLMs](./)
+> *Research Assistant | Advisor: Prof. Hongyuan Zha*
+*   Explored **Neuro-Symbolic** integration using Lean4 to provide unambiguous "System 2" verification for LLM outputs.
 
-### [2. Smart Cafeteria System (Full-Stack + AI)](https://github.com/RicharMd/Smart-Cafeteria-System)
-> **Tech**: Python, MySQL (4NF), LLM-Agent
-*   Designed a 4NF-compliant database schema for complex inventory management.
-*   Integrated an **LLM-based Query Agent** to convert natural language to SQL.
+---
+
+## 🛠 Selected Projects
+
+### [Algorithmic Trading Agent: RL & Transformers](https://github.com/RicharMd/Algo-Trading-Transformer-RL)
+> *Kaggle Competition | Score: 0.431*
+*   **SFT-GRPO Pipeline**: Finetuned **N-HiTS** (MLP) for signal generation, followed by **GRPO** for portfolio allocation.
+*   **"Rotten Apple" Mechanism**: Implemented rolling OOS signal generation to prevent look-ahead bias in RL training.
+
+### [High-Performance Numerical Image Deblurring](https://github.com/RicharMd/High-Perf-Numerical-Image-Deblurring)
+> *Numerical Methods Course Project*
+*   **HPC Optimization**: Implemented JIT-compiled (Numba) **Givens Rotation QR**, outperforming LAPACK by **6x** on banded matrices.
+*   **Math Foundation**: Bridges the gap between Linear Algebra theory ($Ax=b$) and high-performance computing.
+
+### [Smart Cafeteria System (Full-Stack + AI)](https://github.com/RicharMd/Smart-Cafeteria-System)
+> *Group Leader | Tech: Python, MySQL (4NF), LLM-Agent*
+*   Designed a 4NF-compliant database schema and integrated an **LLM-based Query Agent** for natural language SQL generation.
 
 ---
 
@@ -69,5 +58,8 @@ Unlike a pure theorist, I build systems. Unlike a pure engineer, I seek mathemat
 *   **University of Wisconsin-Madison** (Incoming Spring 2026)
     *   B.S. in Computer Science
 *   **The Chinese University of Hong Kong, Shenzhen** (2023 - 2025)
-    *   Major GPA: 3.96/4.0
-    *   Key Courses: Matrix Computation (A), Optimization (A), Computer Architecture (A)
+    *   Major GPA: 3.96/4.0 (Top 10%)
+    *   Key Courses: Matrix Computation (A), Numerical Methods (A), Optimization (A)
+
+---
+<small>Last updated: Jan 2026</small>
