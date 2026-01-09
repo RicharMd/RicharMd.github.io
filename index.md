@@ -7,7 +7,7 @@ layout: default
 # Yiteng (Richard) Mao
 
 **Incoming Junior @ UW-Madison CS (Spring 2026)**  
-*Methodology-Driven AI Researcher | U.S. Permanent Resident*
+*Methodology-Driven AI Researcher*
 
 [📄 CV (PDF)](./assets/CV_Yiteng_Mao.pdf) | [📧 Email](mailto:mao85@wisc.edu) | [GitHub](https://github.com/RicharMd)
 
