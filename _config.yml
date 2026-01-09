@@ -1,10 +1,10 @@
 title: Yiteng Mao
 email: mao85@wisc.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  Methodology-Driven AI Researcher & Model Architect. <br>
-  Focusing on Neuro-Symbolic AI, Architecture Innovation, and High-Performance Computing.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://RicharMd.github.io" # the base hostname & protocol for your site
+description: >-
+  Methodology-Driven AI Researcher. <br>
+  Focusing on Post-Training Paradigms, Hallucination Awareness, and Internalizing Consciousness in LLMs.
+baseurl: ""
+url: "https://RicharMd.github.io"
 twitter_username: 
 github_username:  RicharMd
 
