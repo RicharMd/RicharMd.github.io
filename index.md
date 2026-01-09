@@ -38,7 +38,7 @@ I am currently pivoting from **Formal Verification (Lean4)** to **Empirical Eval
 ## 🛠 Selected Projects
 
 ### [Algorithmic Trading Agent: RL & Transformers](https://github.com/RicharMd/Algo-Trading-Transformer-RL)
-> *Kaggle Competition | Score: 0.431*
+> *Kaggle Competition |*
 *   **SFT-GRPO Pipeline**: Finetuned **N-HiTS** (MLP) for signal generation, followed by **GRPO** for portfolio allocation.
 *   **"Rotten Apple" Mechanism**: Implemented rolling OOS signal generation to prevent look-ahead bias in RL training.
 
