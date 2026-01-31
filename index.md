@@ -15,7 +15,7 @@ layout: default
 
 ## 🔬 Research Vision
 
-I am a researcher driven by **Methodology** rather than just benchmarks. My goal is to shift **Post-training paradigms (RLHF)** to enable true emergence and internalize "Hallucination Awareness" in LLMs.
+I am a researcher driven by **Methodology** rather than just benchmarks. My goal is to shift **Post-training paradigms (RLHF & RLVR)** to enable true emergence and internalize "Hallucination Awareness" in LLMs.
 
 I am currently pivoting from **Formal Verification (Lean4)** to **Empirical Evaluation**, believing that solving the "Evaluation Gap" in OOD human errors is the key to reliable Reward Modeling.
 
