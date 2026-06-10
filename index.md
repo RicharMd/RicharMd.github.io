@@ -78,7 +78,7 @@ At the same time, I remain deeply interested in **hallucination awareness**, **i
 
 <div class="project-block">
 
-<h3><a href="https://github.com/RicharMd/Algo-Trading-Transformer-RL">Algorithmic Trading Agent: RL &amp; Transformer Integration</a></h3>
+<h3><a href="https://github.com/RicharMd/Algo-Trading-RL-Transformer">Algorithmic Trading Agent: RL &amp; Transformer Integration</a></h3>
 
 <p class="project-meta">Kaggle Competition |</p>
 
@@ -118,7 +118,7 @@ At the same time, I remain deeply interested in **hallucination awareness**, **i
 
 <ul class="edu-list">
   <li><strong>University of Wisconsin-Madison</strong> (2026 Spring - Present)<br>B.S. in Computer Science</li>
-  <li><strong>The Chinese University of Hong Kong, Shenzhen</strong> (2023 - 2025)</li>
+  <li><strong>The Chinese University of Hong Kong, Shenzhen</strong> (2023 - 2025)<br>B.Eng. in Computer Science</li>
 </ul>
 
 <div class="page-footer">Last updated: June 2026</div>
