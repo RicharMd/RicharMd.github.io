@@ -11,6 +11,7 @@ layout: default
       <a href="./assets/CV_Yiteng_Mao.pdf">CV (PDF)</a>
       <a href="mailto:mao85@wisc.edu">Email</a>
       <a href="https://github.com/RicharMd">GitHub</a>
+      <a href="https://scholar.google.com/citations?user=xqWzuW0AAAAJ&hl=en">Google Scholar</a>
     </div>
   </div>
   <img class="hero-avatar" src="./assets/profile.jpg" alt="Yiteng Mao">
@@ -18,7 +19,7 @@ layout: default
 
 ## Research Vision
 
-<div class="vision">
+<div class="vision" markdown="1">
 
 I am interested in reliable learning signals for large language models, especially through **RLHF/RLVF**, **reward modeling**, and **Internalizing Consciousness in LLMs**.
 
@@ -32,7 +33,7 @@ At the same time, I remain deeply interested in **hallucination awareness**, **i
 
 <div class="featured-paper">
 
-### RealMath-Eval: Benchmarking LLM Judges on Authentic Student Reasoning
+<h3>RealMath-Eval: Benchmarking LLM Judges on Authentic Student Reasoning</h3>
 
 <p class="paper-meta">Independent Research | Advisor: Prof. Hongyuan Zha | <a href="https://arxiv.org/abs/2606.10254">arXiv:2606.10254</a></p>
 
@@ -62,7 +63,7 @@ At the same time, I remain deeply interested in **hallucination awareness**, **i
 
 <div class="project-block">
 
-### Lean4Eval: Formal Reasoning for LLM Evaluation
+<h3>Lean4Eval: Formal Reasoning for LLM Evaluation</h3>
 
 <p class="project-meta">Research Assistant | Advisor: Prof. Hongyuan Zha</p>
 
@@ -77,7 +78,7 @@ At the same time, I remain deeply interested in **hallucination awareness**, **i
 
 <div class="project-block">
 
-### [Algorithmic Trading Agent: RL & Transformer Integration](https://github.com/RicharMd/Algo-Trading-Transformer-RL)
+<h3><a href="https://github.com/RicharMd/Algo-Trading-Transformer-RL">Algorithmic Trading Agent: RL &amp; Transformer Integration</a></h3>
 
 <p class="project-meta">Kaggle Competition |</p>
 
@@ -90,7 +91,7 @@ At the same time, I remain deeply interested in **hallucination awareness**, **i
 
 <div class="project-block">
 
-### [High-Performance Numerical Image Deblurring](https://github.com/RicharMd/High-Perf-Numerical-Image-Deblurring)
+<h3><a href="https://github.com/RicharMd/High-Perf-Numerical-Image-Deblurring">High-Performance Numerical Image Deblurring</a></h3>
 
 <p class="project-meta">Individual Project | Advisor: Prof. Andre Milzarek</p>
 
@@ -103,7 +104,7 @@ At the same time, I remain deeply interested in **hallucination awareness**, **i
 
 <div class="project-block">
 
-### [Smart Cafeteria System (Full-Stack + AI)](https://github.com/RicharMd/Smart-Cafeteria-System)
+<h3><a href="https://github.com/RicharMd/Smart-Cafeteria-System">Smart Cafeteria System (Full-Stack + AI)</a></h3>
 
 <p class="project-meta">Group Leader | Tech: Python, MySQL (4NF), LLM-Agent</p>
 
@@ -117,7 +118,7 @@ At the same time, I remain deeply interested in **hallucination awareness**, **i
 
 <ul class="edu-list">
   <li><strong>University of Wisconsin-Madison</strong> (2026 Spring - Present)<br>B.S. in Computer Science</li>
-  <li><strong>The Chinese University of Hong Kong, Shenzhen</strong> (2023 - 2025)<br>Major GPA: 3.974/4.0 | Cumulative GPA: 3.871/4.0<br>Selected coursework: Matrix Computation (A), Numerical Methods (A), Optimization (A), Machine Learning (A)</li>
+  <li><strong>The Chinese University of Hong Kong, Shenzhen</strong> (2023 - 2025)</li>
 </ul>
 
 <div class="page-footer">Last updated: June 2026</div>
