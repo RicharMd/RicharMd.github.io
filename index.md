@@ -8,13 +8,13 @@ layout: default
     <p class="subtitle"><strong>Undergraduate @ UW-Madison CS</strong></p>
     <p class="tagline"><em>Methodology-Driven AI Researcher</em></p>
     <div class="link-row">
-      <a href="./assets/CV_Yiteng_Mao.pdf">CV (PDF)</a>
+      <a href="./assets/CV_Yiteng_Mao.pdf?v=20261113">CV (PDF)</a>
       <a href="mailto:mao85@wisc.edu">Email</a>
       <a href="https://github.com/RicharMd">GitHub</a>
       <a href="https://scholar.google.com/citations?user=xqWzuW0AAAAJ&hl=en">Google Scholar</a>
     </div>
   </div>
-  <img class="hero-avatar" src="./assets/profile.jpg" alt="Yiteng Mao">
+  <img class="hero-avatar" src="./assets/profile.jpg?v=20261113" alt="Yiteng Mao">
 </div>
 
 ## Research Vision
