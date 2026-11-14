@@ -4,7 +4,7 @@ layout: default
 
 <div class="hero">
   <div class="hero-text">
-    <h1>Yiteng (Richard) Mao</h1>
+    <h1>Yiteng (Eton) Mao</h1>
     <p class="subtitle"><strong>Undergraduate @ UW-Madison CS</strong></p>
     <p class="tagline"><em>Methodology-Driven AI Researcher</em></p>
     <div class="link-row">
